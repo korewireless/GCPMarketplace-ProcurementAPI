@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-$ npm install @googleapis/cloudcommerceprocurement
+$ npm install https://github.com/korewireless/GCPMarketplace-ProcurementAPI.git
 ```
 
 ## Usage
